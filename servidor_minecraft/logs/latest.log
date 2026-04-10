@@ -1,0 +1,365 @@
+[00:04:10] [Server thread/INFO]: JPOLKO issued server command: /give JPOLKO minecraft:lapis_block 2
+[00:04:10] [Server thread/INFO]: [JPOLKO: Gave 2 [Block of Lapis Lazuli] to JPOLKO]
+[00:15:53] [User Authenticator #3/INFO]: UUID of player Santiago_396 is 56f60926-f8be-3273-9f56-0f91d608ba5e
+[00:15:53] [Server thread/INFO]: Santiago_396 joined the game
+[00:15:53] [Server thread/INFO]: Santiago_396[/127.58.168.92:47435] logged in with entity id 64667 at ([world]277.5801599342362, 89.0, 646.4745252041077)
+[00:19:29] [Server thread/INFO]: Santiago_396 was slain by Iron Golem
+[00:20:15] [Server thread/INFO]: Santiago_396 lost connection: Disconnected
+[00:20:15] [Server thread/INFO]: Santiago_396 left the game
+[00:26:26] [User Authenticator #4/INFO]: UUID of player Santiago_396 is 56f60926-f8be-3273-9f56-0f91d608ba5e
+[00:26:26] [Server thread/INFO]: Santiago_396 joined the game
+[00:26:26] [Server thread/INFO]: Santiago_396[/127.58.168.92:52309] logged in with entity id 66776 at ([world]269.71223574776315, 78.0, 635.8255739572973)
+[00:31:53] [Server thread/INFO]: Santiago_396 was slain by datapack de mierda
+[00:39:45] [Server thread/INFO]: Santiago_396 issued server command: /datapack disable "file/graves v4.0.6 (MC 1.21-1.21.11).zip"
+[00:39:45] [Server thread/INFO]: [Santiago_396: Disabling data pack [file/graves v4.0.6 (MC 1.21-1.21.11).zip (world)]]
+[00:39:46] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called more_mob_heads:entities/shulker
+[00:39:47] [Server thread/INFO]: Loaded 1431 recipes
+[00:39:47] [Server thread/INFO]: Loaded 1697 advancements
+[00:39:49] [Server thread/INFO]: Santiago_396 issued server command: /reload
+[00:39:49] [Server thread/INFO]: Santiago_396: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[00:39:52] [Server thread/INFO]: Santiago_396 issued server command: /reload confirm
+[00:39:52] [Server thread/INFO]: Santiago_396: Please note that this command is not supported and may cause issues when using some plugins.
+[00:39:52] [Server thread/INFO]: Santiago_396: If you encounter any issues please use the /stop command to restart your server.
+[00:39:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:39:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:39:52] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[00:39:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:39:53] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called more_mob_heads:entities/shulker
+[00:39:53] [Server thread/INFO]: Loaded 1431 recipes
+[00:39:53] [Server thread/INFO]: Loaded 1697 advancements
+[00:39:53] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:39:53] [Server thread/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[00:39:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:39:53] [Server thread/INFO]: Santiago_396: Reload complete.
+[00:40:08] [Server thread/INFO]: Santiago_396 issued server command: /datapack enable "file/graves v4.0.6 (MC 1.21-1.21.11).zip"
+[00:40:08] [Server thread/INFO]: [Santiago_396: Enabling data pack [file/graves v4.0.6 (MC 1.21-1.21.11).zip (world)]]
+[00:40:08] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/player}.pools[1].entries[0]: Unknown loot table called player_heads:entities/player
+[00:40:08] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called more_mob_heads:entities/shulker
+[00:40:08] [Server thread/INFO]: Loaded 1431 recipes
+[00:40:08] [Server thread/INFO]: Loaded 1702 advancements
+[00:40:10] [Server thread/INFO]: Santiago_396 issued server command: /reload
+[00:40:10] [Server thread/INFO]: Santiago_396: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[00:40:11] [Server thread/INFO]: Santiago_396 issued server command: /datapack enable "file/graves v4.0.6 (MC 1.21-1.21.11).zip"
+[00:40:14] [Server thread/INFO]: Santiago_396 issued server command: /reload confirm
+[00:40:14] [Server thread/INFO]: Santiago_396: Please note that this command is not supported and may cause issues when using some plugins.
+[00:40:14] [Server thread/INFO]: Santiago_396: If you encounter any issues please use the /stop command to restart your server.
+[00:40:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:40:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:40:14] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[00:40:14] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:40:15] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/player}.pools[1].entries[0]: Unknown loot table called player_heads:entities/player
+[00:40:15] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called more_mob_heads:entities/shulker
+[00:40:15] [Server thread/INFO]: Loaded 1431 recipes
+[00:40:15] [Server thread/INFO]: Loaded 1702 advancements
+[00:40:15] [Paper Async Command Builder Thread Pool - 1/ERROR]: Caught previously unhandled exception :
+[00:40:15] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:40:15] [Server thread/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[00:40:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:40:15] [Paper Async Command Builder Thread Pool - 1/ERROR]: Paper Async Command Builder Thread Pool - 1
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedEntryIterator.next(LinkedHashMap.java:1058) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedEntryIterator.next(LinkedHashMap.java:1055) ~[?:?]
+	at java.base/java.util.AbstractMap.hashCode(AbstractMap.java:527) ~[?:?]
+	at com.mojang.brigadier.tree.CommandNode.hashCode(CommandNode.java:155) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at java.base/java.util.HashMap.hash(HashMap.java:338) ~[?:?]
+	at java.base/java.util.HashMap.put(HashMap.java:618) ~[?:?]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:488) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:470) ~[paper-1.21.5.jar:1.21.5-114-a1b3058]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:40:15] [Server thread/INFO]: Santiago_396: Reload complete.
+[00:40:40] [Server thread/INFO]: Santiago_396 was slain by JPOLKO
+[00:40:46] [Server thread/INFO]: Santiago_396 issued server command: /tp JPOLKO
+[00:40:46] [Server thread/INFO]: [Santiago_396: Teleported Santiago_396 to JPOLKO]
+[01:02:09] [Server thread/INFO]: JPOLKO was slain by Iron Golem
+[01:09:31] [Server thread/INFO]: Villager Villager['Villager'/2323, uuid='fa49435c-db17-4b8c-a425-3b49cd356f97', l='ServerLevel[world]', x=275.18, y=88.69, z=640.33, cpos=[17, 40], tl=159498, v=true] died, message: 'Villager was slain by datapack de mierda'
+[01:37:04] [Server thread/INFO]: Santiago_396 has made the advancement [Ice Bucket Challenge]
+[01:37:08] [Server thread/INFO]: JPOLKO has made the advancement [Ice Bucket Challenge]
+[01:37:10] [Server thread/INFO]: JPOLKO has made the advancement [Hot Stuff]
+[01:40:54] [Server thread/INFO]: JPOLKO has made the advancement [We Need to Go Deeper]
+[01:40:58] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:40:58] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:40:58] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:40:58] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:40:58] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:40:58] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:41:03] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:41:03] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:41:03] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:41:03] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:41:03] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:41:03] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:41:04] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:41:04] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:41:04] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:41:04] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:41:04] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:41:04] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:41:07] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:41:07] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:41:07] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:41:07] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:41:07] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[01:41:07] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[01:41:18] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:41:18] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:41:23] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:41:23] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:23] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:41:26] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:41:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:41:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:41:28] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:31] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:41:32] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:35] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:41:35] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:35] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:41:41] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:41:41] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:41:44] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:41:44] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:41:44] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:41:44] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:41:44] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:41:44] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:41:45] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:41:45] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:41:45] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:41:45] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:47] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:41:47] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:41:47] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:41:47] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:41:47] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:41:47] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:47] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:41:47] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:41:49] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:41:50] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:51] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:51] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:51] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:41:51] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:41:52] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:41:52] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:41:52] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:41:52] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:41:52] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:41:52] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:41:52] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:41:52] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:41:52] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:41:52] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:41:52] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:41:53] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:41:53] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:41:53] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:41:53] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:41:53] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:41:53] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:41:54] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:41:54] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:41:55] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:41:55] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:41:55] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:41:55] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:41:55] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:55] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:41:55] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:41:55] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:41:55] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:41:55] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:41:55] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:41:58] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:41:58] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:41:58] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:41:58] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:41:58] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:41:58] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=109, z=22}
+[01:41:58] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:41:58] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:41:58] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:41:59] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:41:59] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:41:59] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:41:59] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:41:59] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:42:00] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:42:00] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:
+[01:42:00] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:42:00] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:42:00] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:42:00] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:42:01] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:42:01] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:42:01] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:42:01] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:42:01] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:42:01] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:42:01] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:42:01] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:42:01] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:42:01] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:42:03] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:42:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:42:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=113, z=-131}
+[01:42:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:42:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=78, y=114, z=-133}
+[01:42:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:42:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:42:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:42:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:42:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:42:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=79, y=113, z=-131}
+[01:42:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=113, z=-131}
+[01:42:05] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=80, y=114, z=-133}
+[01:42:07] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:42:07] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=81, y=114, z=-128}
+[01:42:07] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:42:07] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:42:07] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:42:07] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:42:07] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:42:07] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:42:07] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:42:07] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-38, y=130, z=21}
+[01:42:09] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:42:09] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:42:09] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[01:42:09] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:42:09] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=90, z=22}
+[01:42:09] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=99, z=25}
+[01:42:09] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-35, y=135, z=25}
+[01:42:09] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[01:43:18] [Server thread/INFO]: JPOLKO was slain by Iron Golem
+[01:59:28] [Server thread/INFO]: Villager Villager['Villager'/2606, uuid='2097074d-e84e-4d4d-8bfd-0053a6d8cc2c', l='ServerLevel[world]', x=212.22, y=66.00, z=304.05, cpos=[13, 19], tl=20574, v=true] died, message: 'Villager was slain by Vindicator'
+[02:01:02] [User Authenticator #5/INFO]: UUID of player Camilo912a is 214fa58a-b1c8-3354-b45f-665835f641ea
+[02:01:04] [Server thread/INFO]: Camilo912a joined the game
+[02:01:04] [Server thread/INFO]: Camilo912a[/127.190.110.151:47577] logged in with entity id 172645 at ([world]276.30000001192093, 80.0, 656.6999999880791)
+[02:01:35] [Server thread/INFO]: Villager Villager['Villager'/2666, uuid='844b8a41-1014-4be2-a712-5b43290d7a20', l='ServerLevel[world]', x=206.35, y=67.00, z=295.12, cpos=[12, 18], tl=16347, v=true] died, message: 'Villager was slain by Vindicator'
+[02:01:45] [Server thread/INFO]: Villager Villager['Villager'/2605, uuid='a15c15c6-5f18-49da-a497-6597cb0b8c40', l='ServerLevel[world]', x=208.65, y=65.00, z=331.42, cpos=[13, 20], tl=17798, v=true] died, message: 'Villager was slain by Vindicator'
+[02:01:50] [Server thread/INFO]: Villager Villager['Villager'/2649, uuid='d3a12881-0216-456d-9172-e0485fa755c2', l='ServerLevel[world]', x=207.00, y=67.00, z=315.50, cpos=[12, 19], tl=17214, v=true] died, message: 'Villager was slain by Vindicator'
+[02:06:15] [Server thread/INFO]: Camilo912a lost connection: Timed out
+[02:06:15] [Server thread/INFO]: Camilo912a left the game
+[02:06:31] [Server thread/INFO]: Santiago_396 lost connection: Disconnected
+[02:06:31] [Server thread/INFO]: Santiago_396 left the game
+[02:06:43] [User Authenticator #6/INFO]: UUID of player Camilo912a is 214fa58a-b1c8-3354-b45f-665835f641ea
+[02:06:46] [Server thread/INFO]: Camilo912a joined the game
+[02:06:46] [Server thread/INFO]: Camilo912a[/127.190.110.151:48607] logged in with entity id 190317 at ([world]338.79753976618724, 71.0, 688.8102990256695)
+[02:07:30] [Server thread/INFO]: Camilo912a lost connection: Disconnected
+[02:07:31] [Server thread/INFO]: Camilo912a left the game
+[02:07:39] [User Authenticator #6/INFO]: UUID of player Camilo912a is 214fa58a-b1c8-3354-b45f-665835f641ea
+[02:07:39] [Server thread/INFO]: Camilo912a (/127.190.110.151:39435) lost connection: Disconnected
+[02:08:06] [User Authenticator #6/INFO]: UUID of player Camilo912a is 214fa58a-b1c8-3354-b45f-665835f641ea
+[02:08:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@457ad119[id=214fa58a-b1c8-3354-b45f-665835f641ea,name=Camilo912a,properties={}] lost connection: Timed out
+[02:08:51] [User Authenticator #6/INFO]: UUID of player Camilo912a is 214fa58a-b1c8-3354-b45f-665835f641ea
+[02:08:54] [Server thread/INFO]: Camilo912a joined the game
+[02:08:54] [Server thread/INFO]: Camilo912a[/127.190.110.151:45049] logged in with entity id 191357 at ([world]340.07975269053617, 72.0, 692.5717320435223)
+[02:09:39] [Server thread/INFO]: Camilo912a lost connection: Timed out
+[02:09:39] [Server thread/INFO]: Camilo912a left the game
+[02:10:07] [User Authenticator #7/INFO]: UUID of player Camilo912a is 214fa58a-b1c8-3354-b45f-665835f641ea
+[02:10:08] [Server thread/INFO]: Camilo912a joined the game
+[02:10:08] [Server thread/INFO]: Camilo912a[/127.190.110.151:49029] logged in with entity id 191625 at ([world]340.07975269053617, 72.0, 692.5717320435223)
+[02:10:38] [User Authenticator #7/INFO]: UUID of player Santiago_396 is 56f60926-f8be-3273-9f56-0f91d608ba5e
+[02:10:39] [Server thread/INFO]: Santiago_396 joined the game
+[02:10:39] [Server thread/INFO]: Santiago_396[/127.58.168.92:49281] logged in with entity id 191751 at ([world]130.92548692687333, 70.0, 391.88163959843206)
+[02:11:08] [Server thread/INFO]: Camilo912a lost connection: Timed out
+[02:11:08] [Server thread/INFO]: Camilo912a left the game
+[02:12:31] [User Authenticator #8/INFO]: UUID of player Camilo912a is 214fa58a-b1c8-3354-b45f-665835f641ea
+[02:12:32] [Server thread/INFO]: Camilo912a joined the game
+[02:12:32] [Server thread/INFO]: Camilo912a[/127.190.110.151:38013] logged in with entity id 192910 at ([world]333.70645770487835, 73.02442408821369, 710.7592552377376)
+[02:30:45] [Async Chat Thread - #1/INFO]: [Not Secure] <Santiago_396> 170 300
+[02:35:32] [Async Chat Thread - #2/INFO]: [Not Secure] <Santiago_396> 220 314
+[02:35:53] [Async Chat Thread - #2/INFO]: [Not Secure] <Santiago_396> 220 314
+[02:35:54] [Async Chat Thread - #3/INFO]: [Not Secure] <Santiago_396> 220 314
+[02:38:59] [Server thread/INFO]: Camilo912a has made the advancement [Getting an Upgrade]
+[02:40:05] [Server thread/INFO]: JPOLKO lost connection: Disconnected
+[02:40:05] [Server thread/INFO]: JPOLKO left the game
+[02:41:02] [User Authenticator #9/INFO]: UUID of player JPOLKO is e49ea68c-6b63-36aa-b865-48ca087b01e5
+[02:41:04] [Server thread/INFO]: JPOLKO joined the game
+[02:41:04] [Server thread/INFO]: JPOLKO[/127.192.12.116:46317] logged in with entity id 252283 at ([world]251.4692676985847, 75.9375, 635.2539669148073)
+[02:42:47] [Server thread/INFO]: Santiago_396 has made the advancement [Getting an Upgrade]
+[02:43:11] [Server thread/INFO]: JPOLKO issued server command: /gamemode spectator
+[02:43:11] [Server thread/INFO]: [JPOLKO: Set own game mode to Spectator Mode]
+[02:43:16] [Server thread/INFO]: JPOLKO issued server command: /gamemode survival
+[02:43:16] [Server thread/INFO]: [JPOLKO: Set own game mode to Survival Mode]
+[02:55:54] [Server thread/INFO]: Santiago_396 has made the advancement [We Need to Go Deeper]
+[02:56:16] [Server thread/INFO]: Santiago_396 lost connection: Disconnected
+[02:56:16] [Server thread/INFO]: Santiago_396 left the game
+[02:56:20] [User Authenticator #10/INFO]: UUID of player Santiago_396 is 56f60926-f8be-3273-9f56-0f91d608ba5e
+[02:56:21] [Server thread/INFO]: Santiago_396 joined the game
+[02:56:21] [Server thread/INFO]: Santiago_396[/127.58.168.92:55505] logged in with entity id 278164 at ([world_nether]53.01907744783706, 68.0, 79.78875030950122)
+[02:56:54] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-36, y=135, z=20}
+[02:56:54] [Paper Common Worker #0/ERROR]: Block-attached entity at invalid position: BlockPos{x=-39, y=99, z=22}
+[02:57:16] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[02:57:16] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[02:57:16] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[02:57:16] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[02:57:16] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[02:57:16] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[02:57:18] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[02:57:18] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[02:57:18] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[02:57:18] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
+[02:57:18] [Paper Common Worker #0/WARN]: Empty or non-existent pool: siscu:bastion/crevice/base2
+[02:57:18] [Paper Common Worker #0/WARN]: Empty or non-existent pool: minecraft:bastion/crevice/piglins
